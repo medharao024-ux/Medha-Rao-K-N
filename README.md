@@ -7,16 +7,21 @@
 ## Skills
 -C
 -Java script
+-java
 
 ## Projects
 -Trash Track web
 -Movie APP
+
 
 ## Currently Learning
 - DSA
 - React
 - IoT
 - node.js
+- socket and http concepts
+  
+  
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/medha-rao886
