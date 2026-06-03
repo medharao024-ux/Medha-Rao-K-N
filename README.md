@@ -12,6 +12,7 @@
 ## Projects
 -Trash Track web
 -Movie APP
+-placement portal
 
 
 ## Currently Learning
@@ -20,6 +21,7 @@
 - IoT
 - node.js
 - socket and http concepts
+- OS
   
   
 
